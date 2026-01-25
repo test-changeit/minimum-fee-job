@@ -19,7 +19,7 @@ on:
         type: string
 
 env:
-  IMAGE_NAME: ghcr.io/rosen-bridge/minimum-fee-job-service
+  IMAGE_NAME: ghcr.io/test-changeit/minimum-fee-job-service
 
 jobs:
   build:
